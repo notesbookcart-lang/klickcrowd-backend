@@ -1,0 +1,2 @@
+MONGO_URI=mongodb+srv://notesbookcart_db_user:Football%402018@cluster0.qd62y7j.mongodb.net/klickcrowd?retryWrites=true&w=majority&appName=Cluster0
+PORT=5000
